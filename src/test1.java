@@ -6,6 +6,6 @@ public static void main(String[] args) {
 	 if(a>1){
 		 System.out.println(a);
 	 }
-			 
+		System.out.println("git修改后的提交");	 
 }
 }
